@@ -5,7 +5,7 @@ def seq_search(s,key):
 			return i          
 		i += 1      
 	return None
-
+#iii
 
 def seq_search_closest(s,key):
 	if s != []:
@@ -27,7 +27,7 @@ def seq_search_closest(s,key):
 
 
 	
-	
+	###############################
 
 
 	
