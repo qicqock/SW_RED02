@@ -1,11 +1,11 @@
-def seq_search(s,key):      
+def seq_search(p,key):      
 	i = 0      
-	for x in s:          
+	for x in p:          
 		if x == key:              
 			return i          
 		i += 1      
 	return None
-
+#iii
 
 def seq_search_closest(s,key):
 	if s != []:
@@ -27,7 +27,7 @@ def seq_search_closest(s,key):
 
 
 	
-	
+	###############################
 
 
 	
